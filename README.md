@@ -26,7 +26,7 @@ Projeto Culturama com HTML e CSS.
     :hammer_and_wrench: Funcionalidades
 </h3>
 <p align="center">
-   :clipboard: Projeto Alura Newsletter com HTML e Tailwind CSS.
+   :clipboard: Projeto Culturama com HTML e CSS.
 </p>
 <p align="center">
    :clipboard: É possível navegar pelo site nas telas para desktops, tablets e mobile.
