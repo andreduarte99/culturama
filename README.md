@@ -9,6 +9,7 @@ Projeto Culturama com HTML e CSS.
 | :rocket: URL         | https://andreduarte99.github.io/culturama/
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
+![Captura de tela de 2024-08-15 21-53-35](https://github.com/user-attachments/assets/b7cb768d-ed15-467f-b813-5fa9684a200c#vitrinedev)
 
 
 
